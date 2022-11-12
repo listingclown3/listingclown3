@@ -6,3 +6,5 @@ Made a StudentVue Discord Bot (Private).
 
 ### Fun Facts
 Quishy keeps me in her basement
+
+![Screenshot](quishballin.png)
