@@ -1,10 +1,10 @@
 # About Me
-I like programming and learning new things, I currently know Java, TS, and JS.
+D1 Procrastinator
 
 ## Accomplishments
-Made a StudentVue Discord Bot (Private).
+I made things people don't ask for (except for AimBow and NEF)
 
 ### Fun Facts
-Quishy keeps me in her basement
+i like doing fun stuff dm me on discord : list3
 
 ![Screenshot](quishballin.png)
