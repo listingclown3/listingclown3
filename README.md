@@ -13,6 +13,9 @@ whats up brother!
 ## [notenoughfrags](https://github.com/listingclown3/NotEnoughFrags)
 - pathfinding mod in 1.8.9, it's really bad but i've been improving it for my biggest project yet 🙊
 
+# organizations
+- [zylink](https://zylinktech.net/), making cloud solutions like storage, vm's, etc.
+
 # todo priority
 - fix [aimbow](https://github.com/listingclown3/AimBow), add smart aiming, and release a youtube video
 - release big project (it'll be open source, but i need to make money somehow !!!)
