@@ -15,7 +15,7 @@ whats up brother!
 
 # organizations
 - [zylink](https://zylinktech.net/), making cloud solutions like storage, vm's, etc.
-- [team 2073 robotics][https://github.com/team-2073-eagleforce], developing a scouting app to collect and analyze data for competitions
+- [team 2073 robotics](https://github.com/team-2073-eagleforce), developing a scouting app to collect and analyze data for competitions
 
 # todo priority
 - fix [aimbow](https://github.com/listingclown3/AimBow), add smart aiming, and release a youtube video
