@@ -6,6 +6,8 @@ whats up brother!
 - draws arrow/projectile trajectories in 1.8.9 minecraft
 ## [auto-conjuguemos](https://github.com/listingclown3/auto-conjuguemos)
 - tricks the silly conjuguemos api into thinking you finish homework when you didn't 😜 (not functional anymore)
+## [buybackboss-scraper](https://github.com/listingclown3/buybackboss-scraper)
+- scrapes [buybackboss](buybackboss.com) for phone prices to track depreciation and comps (sellcell coming soon)
 ## [jexactyl-credit-maker](https://github.com/listingclown3/jexactyl-credit-maker)
 - puppeteer instance that sits on a jexactyl website to gain coins for those silly websites that offer free hosting in exchange for sitting on their site
 ## [linkjs](https://github.com/listingclown3/linkjs)
