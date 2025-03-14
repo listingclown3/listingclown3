@@ -17,7 +17,7 @@ whats up brother!
 ## [notenoughfrags](https://github.com/listingclown3/NotEnoughFrags)
 - pathfinding mod in 1.8.9, it's really bad but i've been improving it for my biggest project yet 🙊
 ## [ophidia](https://github.com/listingclown3/ophidia)
-- pathfinding mod absed on roger1337 pathfinder but ready out the box 1.8.9 minecraft. planning to build on top and make an auto fragger
+- pathfinding mod based on roger1337 pathfinder but ready out the box 1.8.9 minecraft. planning to build on top and make an auto fragger
 
 # organizations
 - [zylink](https://zylinktech.net/), making cloud solutions like storage, vm's, etc.
