@@ -12,7 +12,7 @@ whats up brother!
 ## [bstock-scraper](https://github.com/listingclown3/bstock-scraper)
 - scrapes bstock iphone wholesaling 3rd party vendors and exports manifests, etc. to comp prices with the [buybackboss-scraper](https://github.com/listingclown3/buybackboss-scraper)
 ## [buybackboss-scraper](https://github.com/listingclown3/buybackboss-scraper)
-- scrapes [buybackboss](buybackboss.com) for phone prices to track depreciation and comps (sellcell coming soon)
+- scrapes [buybackboss](buybackboss.com) for phone prices to track depreciation and comps
 ## [jexactyl-credit-maker](https://github.com/listingclown3/jexactyl-credit-maker)
 - puppeteer instance that sits on a jexactyl website to gain coins for those silly websites that offer free hosting in exchange for sitting on their site
 ## [linkjs](https://github.com/listingclown3/linkjs)
